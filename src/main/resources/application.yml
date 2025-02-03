@@ -1,0 +1,15 @@
+spring:
+  application:
+    name: infoservice
+
+#  flyway:
+#    baseline-on-migrate: true
+#  datasource:
+#    name: boomerang_db
+#    username: clientservice_admin
+#    password: clientservice_password
+#    url: jdbc:postgresql://postgres:5432/infoservice_db
+#  jpa:
+#    properties:
+#      hibernate:
+#        dialect: org.hibernate.dialect.PostgreSQLDialect
